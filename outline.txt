@@ -1,0 +1,5 @@
+1- get the coordinates from a file
+2- Send them to the Google Maps' API
+3- get JSON files
+4- Convert JSON files to CSV
+5- Find best route
